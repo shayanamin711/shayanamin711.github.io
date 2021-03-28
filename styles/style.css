@@ -1,5 +1,17 @@
-#{
-   padding-left: 540px;
-   
-    
+#body{
+    padding-left: 750px;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 25px;
+    border-style: solid;
+ 
 }
+#seo{
+    padding-left: 300px;
+    margin-top: -385px;
+}
+
+    
+     
+ 
