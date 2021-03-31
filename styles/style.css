@@ -1,17 +1,93 @@
 #body{
-    padding-left: 750px;
+    padding-left: 543px;
     font-size: 17px;
-    font-weight: 400;
+    font-weight: 200;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 25px;
-    border-style: solid;
- 
+    /* border-style: solid; */
+    background-color: #222;
+    color: snow;
+    margin-top: 1px;
+    padding-top: 20px;
+    padding-bottom: 28px;
+    padding-right: 10px;
+    width: 590px;
+    height: 825px;
+    margin-bottom: 200px;
+    margin-left: 205px;
+}
+#about{
+    font-size: 55px;
 }
 #seo{
     padding-left: 300px;
-    margin-top: -385px;
+    margin-top: -430px;
+}
+#intro{
+    color: rgb(175, 255, 110);
+}
+.fas{
+    color:  rgb(175, 255, 110);
+}
+#img{
+    margin-right: 200px;
+}
+#picture{
+    height: 12px;
+    width: 40px;
+    padding-left: 260px;
+    padding-top: 5px;
+    margin-top: 10px;   
+}
+#list{
+    margin-bottom: 100px;
+    padding-bottom: 100px;
+    margin-left: 10px;
+    width: 90px;
+    padding-left: 215px;
+    margin-top: 80px;
+    margin-bottom: -95px;  
+
+}
+#socialicons{
+    padding-left: 225px;
+    margin-top: 300px;
+    margin-bottom: -430px;   
+}
+#cloud{
+    padding-left: 225px;
+    padding-top: px;
+    margin-top: 750px;
+    margin-bottom: -875px;
+}
+#name{
+    margin: 0;
+    padding: 0;
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    position: absolute;
+    top: 100%;
+    width: 30%;
+    text-align: center;
+    color: snow;
+    letter-spacing: 0.3mm;
+    font-weight: bold;
+    
+}
+#Dev{
+    color:  rgb(175, 255, 125);
 }
 
-    
-     
- 
+
+
+
+
+
+
+
+
+
+
+
+
