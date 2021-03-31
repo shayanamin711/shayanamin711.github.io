@@ -24,10 +24,10 @@
     margin-top: -430px;
 }
 #intro{
-    color: rgb(175, 255, 110);
+    color: rgb(50, 250, 77);
 }
 .fas{
-    color:  rgb(175, 255, 110);
+    color:  rgb(50, 250, 77);
 }
 #img{
     margin-right: 200px;
@@ -74,11 +74,14 @@
     letter-spacing: 0.3mm;
     font-weight: bold;
     
+    
 }
 #Dev{
-    color:  rgb(175, 255, 125);
+    color:  rgb(50, 250, 77);
 }
-
+#myname{
+    font-size: 35px;
+}
 
 
 
